@@ -1,0 +1,3 @@
+interface navigator {
+	userAgent: string;
+}
